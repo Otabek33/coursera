@@ -1,3 +1,5 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Welcome to GitHub docs contributing guide
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on docs.github.com ✨.
